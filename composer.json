@@ -1,0 +1,26 @@
+{
+    "name": "hustshenl/aliyun-core",
+    "description": "aliyun core",
+    "keywords": ["aliyun", "core"],
+    "type": "aliyun-extension",
+    "license": "BSD",
+    "support": {
+        "issues": "https://github.com/hustshenl/aliyun-core/issues",
+        "wiki": "https://github.com/hustshenl/aliyun-core/wiki",
+        "source": "https://github.com/hustshenl/aliyun-core"
+    },
+    "authors": [
+        {
+            "name": "Shen.L",
+            "email": "shen@shenl.com"
+        }
+    ],
+    "require": {
+        "php": ">5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aliyun\\Core\\": "src"
+        }
+    }
+}
