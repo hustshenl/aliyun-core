@@ -3,7 +3,7 @@
     "description": "aliyun core",
     "keywords": ["aliyun", "core"],
     "type": "aliyun-extension",
-    "license": "BSD",
+    "license": "MIT",
     "support": {
         "issues": "https://github.com/hustshenl/aliyun-core/issues",
         "wiki": "https://github.com/hustshenl/aliyun-core/wiki",
